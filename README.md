@@ -2,6 +2,10 @@
 
 ## Full Stack Developer
 I'm experienced in GoLang and Python for backend development, as well as React and React Native for the frontend.
+### Socials
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([www.example.com](https://www.linkedin.com/in/naser-hussain-21370b334/))
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:naser@1jz.cc)
 
 ## Skills
 ### Programming languages
@@ -48,6 +52,13 @@ I'm experienced in GoLang and Python for backend development, as well as React a
 
 <!--![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) soon -->
 
+<!--
+https://readme-typing-svg.herokuapp.com/demo/?weight=600&size=32&color=CBA6F7&lines=Hello+there+%F0%9F%91%8B%2C+Im+Naser+Hussain
+https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#customization 
+https://github-readme-streak-stats.herokuapp.com/demo/
+https://github.com/antonkomarev/github-profile-views-counter
+https://github.com/Ileriayo/markdown-badges
+-->
 ## Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasoooor29&theme=tokyonight&border_radius=4&exclude_days=Thu%2CFri)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasoooor29&show_icons=true&theme=tokyonight)
