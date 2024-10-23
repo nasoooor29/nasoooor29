@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=CBA6F7&width=435&lines=Hello+there+%F0%9F%91%8B%2C+Im+Naser+Hussain)](https://git.io/typing-svg)
+# Hello there 👋, Im Naser Hussain
 
 ## Full Stack Developer
 I'm experienced in GoLang and Python for backend development, as well as React and React Native for the frontend.
