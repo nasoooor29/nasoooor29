@@ -61,8 +61,8 @@ https://github.com/Ileriayo/markdown-badges
 -->
 ## Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nasoooor29&theme=tokyonight&border_radius=4&exclude_days=Thu%2CFri)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nasoooor29&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](github-readme-stats-nu-nine-48.vercel.app/api?username=nasoooor29&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasoooor29&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-nu-nine-48.vercel.app/api/top-langs/?username=nasoooor29&layout=compact&theme=tokyonight)
 
 ![](https://komarev.com/ghpvc/?username=nasoooor29&color=blueviolet)
